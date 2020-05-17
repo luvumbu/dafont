@@ -1,15 +1,5 @@
 <style>
 
- 
-
-
-
-
-
-
-
-
-
 
 @font-face {
   font-family: "couture-bld";
